@@ -1,2 +1,2 @@
 # star_wars
-Star Wars branching website / game
+Star Wars concept landing page
